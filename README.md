@@ -1,5 +1,5 @@
 # Car_Sales_Project
-This repository contains the code and analysis for a comprehensive exploration of automotive sales data. Through extensive exploratory data analysis (EDA) techniques and machine learning techniques, we delve into sales patterns, customer preferences, and market trends within the automotive retail sector.
+This repository contains the code and analysis for a comprehensive exploration of automotive sales data. Through extensive exploratory data analysis (EDA) techniques, we delve into sales patterns, customer preferences, and market trends within the automotive retail sector.
 
 **_Disclaimer_** : _All datasets and reports do not represent any company, institution or country, this is just a dumy dataset to demonstrate the capabilities of Python Programming Language for Data Analysis and Data Science._
 
